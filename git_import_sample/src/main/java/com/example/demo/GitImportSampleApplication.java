@@ -12,7 +12,7 @@ public class GitImportSampleApplication {
 	@GetMapping("/")
 	public String getmessage()
 	{
-		return "Hi This is in OCP Server";
+		return 	"Hi This is in OCP Server";
 	}
 	
 	public static void main(String[] args) {
